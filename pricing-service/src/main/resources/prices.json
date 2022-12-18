@@ -1,0 +1,17 @@
+[
+  {
+    "vehicleId": 111,
+    "currency": "USD",
+    "price": 245.0
+  },
+  {
+    "vehicleId": 222,
+    "currency": "USD",
+    "price": 250.0
+  },
+  {
+    "vehicleId": 333,
+    "currency": "USD",
+    "price": 852.0
+  }
+]
